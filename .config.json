@@ -1,0 +1,12 @@
+{
+  "me": {
+    "port": 8000,
+    "assertClaims": {
+      "aud": "api://default",
+      "cid": "hex cliend id"
+    }
+  },
+  "oidc": {
+    "issuer": "https://gautam.okta.com/oauth2/default"
+  }
+}

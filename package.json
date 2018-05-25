@@ -1,0 +1,15 @@
+{
+  "name": "resourceOwnerFlow",
+  "description": "Express-4 Sample OIDC Resource Owner Flow",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "scripts": {
+    "resourceOwnerFlow": "node server.js"
+  },
+  "dependencies": {
+    "@okta/jwt-verifier": "0.0.11",
+    "cors": "^2.8.4",
+    "express": "^4.14.0",
+    "requests": "^2.87.0"
+  }
+}
